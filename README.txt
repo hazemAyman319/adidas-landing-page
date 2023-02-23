@@ -1,0 +1,1 @@
+this is my first landing page using html & CSS only also a responsive design is used
